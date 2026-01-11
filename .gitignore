@@ -32,10 +32,8 @@ kdsh_pathway_env/
 
 # Project Data & Artifacts
 # Generally good practice to not commit large data or build artifacts
-data/*.txt
 results/
 artifacts/
 *.log
 
-# Docker
-.dockerignore
+
