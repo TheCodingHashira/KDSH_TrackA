@@ -58,10 +58,11 @@ We define consistency strictly. A prediction of `1` (Consistent) is only granted
 │   ├── main.py         # Entry point
 │   ├── config.py       # Global settings
 │   └── utils.py        # Text cleaning helpers
-├── data/               # Input novels & CSVs (not committed)
+├── data               # Input novels & CSVs
 ├── Dockerfile          # Reproducible build env
 ├── requirements.txt    # Python dependencies
-└── results.csv         # Final output
+|── results/
+    ├── results.csv           # Final output
 ```
 
 ## 📊 Performance
