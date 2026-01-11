@@ -1,0 +1,31 @@
+# Virtual environments
+.venv/
+kdsh_pathway_env/
+
+# Git
+.git/
+.gitignore
+
+# Data & artifacts
+artifacts/
+reports/
+docs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large misc
+*.zip
+*.tar
+*.tar.gz
+*.log
