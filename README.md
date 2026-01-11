@@ -1,6 +1,6 @@
 # KDSH 2026 Track A: Narrative Consistency Checker
 
-**Team: TheCodingHashira**
+**Team: Algorythms**
 
 A deterministic, evidence-gated RAG system designed to verify character backstories against long-context novels (Track A).
 
