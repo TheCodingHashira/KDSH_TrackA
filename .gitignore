@@ -32,7 +32,7 @@ kdsh_pathway_env/
 
 # Project Data & Artifacts
 # Generally good practice to not commit large data or build artifacts
-results/
+
 artifacts/
 *.log
 
